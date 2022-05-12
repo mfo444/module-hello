@@ -1,5 +1,5 @@
 package membuatmodule
 
 func SayHelloModule() string {
-	return "Hello Module"
+	return "Hello Module New"
 }
